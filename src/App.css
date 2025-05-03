@@ -207,7 +207,7 @@ h6 {
 .background-image {
   grid-column: 3 / span 1;
   grid-row: 1 / span 2;
-  background-image: url('assets/bg2.jpg');
+  background-image: url('/public/assets/bg2.jpg');
   background-size: cover;
   background-position: center;
   border-radius: var(--border-radius);

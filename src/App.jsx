@@ -96,7 +96,7 @@ export default function App() {
         </AnimatePresence>
       </div>
 
-      <p className="footer">&copy; 2023 Nikhil A Mathew. New work in progress, make sure to check back.</p>
+      <p className="footer">&copy; 2024 Nikhil A Mathew. New work in progress, make sure to check back.</p>
     </div>
   );
 }
