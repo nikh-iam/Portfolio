@@ -493,6 +493,7 @@ textarea.input-field {
   color: var(--text-secondary);
   position: absolute;
   bottom: 0;
+  margin-bottom: 10px;
   width: 100%;
 }
 

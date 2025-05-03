@@ -75,13 +75,13 @@ export default function HomeSection() {
       </motion.div>
 
       <motion.div className="item quote" variants={itemVariants}>
-        <h2>"I live in Trivandrum, where I design the future."</h2>
+        <h2>"I live in Kerala, where I design the future."</h2>
       </motion.div>
 
       <motion.div className="item education" variants={itemVariants}>
         <h2>Education</h2>
         <p>
-          <strong>Master of Computer Applications</strong> (2022 - 2024)
+          <strong>Master of Computer Applications</strong>
           <br />
           <p
             style={{
@@ -89,11 +89,11 @@ export default function HomeSection() {
               padding: "0 1em",
             }}
           >
-            Cgpa : 9.14 <br />
+            '24 <br />
           </p>
         </p>
         <p>
-          <strong>Bachelor of Computer Applications</strong> (2019 - 2022)
+          <strong>Bachelor of Computer Applications</strong>
           <br />
           <p
             style={{
@@ -101,7 +101,7 @@ export default function HomeSection() {
               padding: "0 1em",
             }}
           >
-            Cgpa : 8.01 <br />
+            '22 <br />
           </p>
         </p>
       </motion.div>
