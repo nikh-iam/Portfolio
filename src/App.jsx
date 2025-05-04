@@ -8,7 +8,6 @@ import ContactSection from "./components/Contact";
 import "./App.css";
 import { bouncy } from "ldrs";
 
-// Register the bouncy loader component
 bouncy.register();
 
 const sections = {
@@ -30,12 +29,10 @@ export default function App() {
   });
 
   useEffect(() => {
-    // Apply theme class to document element
     document.documentElement.className = theme;
     localStorage.setItem("theme", theme);
 
-    // Simulate loading
-    const timer = setTimeout(() => setIsLoading(false), 1500);
+    const timer = setTimeout(() => setIsLoading(false), 2000);
     return () => clearTimeout(timer);
   }, [theme]);
 

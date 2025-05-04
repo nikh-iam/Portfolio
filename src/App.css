@@ -303,6 +303,7 @@ h6 {
 .contact1,
 .contact2,
 .contact3 {
+  min-height: 4em;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -310,12 +311,10 @@ h6 {
 }
 
 .contact1 {
-  height: 6em;
   grid-column: 1 / span 2;
 }
 
 .contact2 {
-  height: 6em;
   grid-column: 1 / span 2;
 }
 

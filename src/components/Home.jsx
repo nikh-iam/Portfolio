@@ -70,7 +70,8 @@ export default function HomeSection() {
       </motion.div>
 
       <motion.div className="item logo" variants={itemVariants}>
-        <img src="public/assets/logo.png" loading="lazy" id="logo" className="logo" alt="logo" />
+      <img src="assets/logo.png" alt="logo" />
+
         <h2 style={{ fontSize: "28px" }}>Nikhil A Mathew</h2>
       </motion.div>
 
