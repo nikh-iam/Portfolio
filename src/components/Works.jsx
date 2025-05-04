@@ -30,7 +30,7 @@ const works = [
       "An open source phishing detection extension along with web app.",
     link: "https://github.com/NikhilAMathew/Phishing",
     alignment: "left",
-    image: "/public/assets/bg2.jpg",
+    image: "assets/bg2.jpg",
   },
   {
     id: 2,
@@ -38,7 +38,7 @@ const works = [
     description: "An automated pest identification system.",
     link: "https://github.com/NikhilAMathew/Pest-Classification-and-Detection-System-using-Deep-Learning",
     alignment: "right",
-    image: "/public/assets/bg2.jpg",
+    image: "assets/bg2.jpg",
   },
   {
     id: 3,
@@ -46,7 +46,7 @@ const works = [
     description: "Agricultural management system",
     link: "https://github.com/NikhilAMathew/Agro-Culture",
     alignment: "left",
-    image: "/public/assets/bg2.jpg",
+    image: "assets/bg2.jpg",
   },
   {
     id: 4,
@@ -54,7 +54,7 @@ const works = [
     description: "System for managing health office operations",
     link: "https://github.com/NikhilAMathew/Health-Office_Management_System",
     alignment: "right",
-    image: "/public/assets/bg2.jpg",
+    image: "assets/bg2.jpg",
   },
 ];
 
